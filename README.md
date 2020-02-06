@@ -22,6 +22,13 @@ MyEclipse、SQL Server、Tomcat
 ![](https://github.com/PaTinLei/NetworkSoftwareProgramming_exp/raw/master/images/客户信息录入界面.png)
 
 >播放视频功能，并且可以进行进度条拖动、调节音量、全屏播放、画中画模式、下载等功能。
+
 ![](https://github.com/PaTinLei/NetworkSoftwareProgramming_exp/raw/master/images/视频播放.png)
 
-使用ccs实现网页计时器，显示计时时间的同时，在页面上会显示相应的二进动画。
+使用ccs实现网页计时器，显示计时时间的同时，在页面上会显示相应的二进动画等扩展功能。
+
+### 三、操作
+网址：localhost:8080/LEI/index.jsp
+用户名：*******
+密码：******
+（登陆失败时，也可在顶部注册选项中，注册管理员，登录名为姓名。）
